@@ -3,7 +3,7 @@
 This repository provides Python implementation for method proposed in the paper "M. Zhang, Y. Chen, Weisfeiler-Lehman Neural Machine for Link Prediction, KDD 2017".
 
 ## Introduction
-Wesfeiler-Lehman Neural Machine (WLNM) is a subgraph-based link prediction method leveraging deep learning to automatically learn graph structure features for link prediction from links' enclosing subgraphs.  
+Weisfeiler-Lehman Neural Machine (WLNM) is a subgraph-based link prediction method leveraging deep learning to automatically learn graph structure features for link prediction from links' enclosing subgraphs.  
 The method was proposed in "M. Zhang, Y. Chen, Weisfeiler-Lehman Neural Machine for Link Prediction, KDD 2017".
 
 ## Reference
